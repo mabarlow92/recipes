@@ -1,7 +1,7 @@
 Ingredients
 
 1. Rice and quinoa
-2. Oil
+2. Sauce (see sauce.txt)
 3. Onion
 4. Carrots
 

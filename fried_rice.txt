@@ -10,5 +10,17 @@ Ingredients
 8. Garlic
 9. Soy sauce
 
-10. See fr_instructions.txt
+Instructions
+1. Heat oil on medium heat with spices (minus garlic)
+2. Add chopped veggies
+3. Once veggies are cooked to desired texture, add eggs
+4. Once eggs are cooked, turn down heat to medium-low
+5. Add butter and garlic
+6. Add frozen rice and quinoa
+7. Turn up heat to medium-high and stir continually until rice is hot
+8. Add soy sauce to taste
+9. Cook for 2 more minutes
+10. Remove from heat and serve
+
+
 

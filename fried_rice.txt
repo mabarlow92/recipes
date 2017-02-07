@@ -4,4 +4,9 @@ Ingredients
 2. Sauce (see sauce.txt)
 3. Onion
 4. Carrots
+5. Bell peppers
+6. Green beans
+7. Butter
+8. Garlic
+
 

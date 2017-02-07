@@ -8,5 +8,7 @@ Ingredients
 6. Green beans
 7. Butter
 8. Garlic
+9. Soy sauce
 
+10. See fr_instructions.txt
 
